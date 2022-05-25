@@ -39,3 +39,12 @@ html, body {
   content: ">>";
   padding-right: 2rem;
 }
+
+#cc-frame {
+  border: none;
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+}
