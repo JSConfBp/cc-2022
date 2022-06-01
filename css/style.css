@@ -16,7 +16,7 @@ html, body {
   color: white;
   font-family: monospace;
 }
-
+#prev2-asr-target,
 #prev-asr-target {
   display: block;
   width: 100vw !important;
