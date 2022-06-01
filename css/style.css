@@ -16,6 +16,8 @@ html, body {
   color: white;
   font-family: monospace;
 }
+#prev4-asr-target,
+#prev3-asr-target,
 #prev2-asr-target,
 #prev-asr-target {
   display: block;
