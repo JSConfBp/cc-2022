@@ -21,7 +21,6 @@ corrent embed data
 
 Embed data is coming from 3Play
 
-
 ## local setup & dev
 
 use https://www.npmjs.com/package/local-web-server
