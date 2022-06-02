@@ -7,7 +7,7 @@ html, body {
 #cc-container {
   display: flex;
   justify-content: flex-end;
-  flex-flow: column wrap;
+  flex-flow: column nowrap;
   height: 100vh;
   width: 100vw;
   background-color: black;
@@ -34,6 +34,7 @@ html, body {
   width: 100vw !important;
   text-align: left !important;
   padding: 0 !important;
+  overflow: visible !important;
 }
 
 #live-asr-target::before {
