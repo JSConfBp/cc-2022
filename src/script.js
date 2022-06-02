@@ -24,6 +24,7 @@ const getFrame = () => {
   if (date > new Date('2022-06-03 14:15') && date < new Date('2022-06-03 16:00')) { return 'cc-2-3' }
   if (date > new Date('2022-06-03 16:45') && date < new Date('2022-06-03 19:00')) { return 'cc-2-4' }
 
+  return 'cc-0-0';
 }
 
 (function () {

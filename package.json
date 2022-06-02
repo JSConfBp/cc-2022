@@ -1,0 +1,21 @@
+{
+  "name": "cc-2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cc.js",
+  "scripts": {
+    "build": "mkdir -p build && cp -R src/* build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSConfBp/cc-2022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSConfBp/cc-2022/issues"
+  },
+  "homepage": "https://github.com/JSConfBp/cc-2022#readme"
+}
